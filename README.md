@@ -1,1 +1,2 @@
 # Tic-Tac-Toe
+The game is implemented using C language and it is a command-line application.  Game board is represented by a 2D array and players take turns placing their symbols (X or O) on the board.  The game uses functions to handle different aspects of the game like displaying the board, and checking for a  win or draw. The game has a simple user interface, prompts players for moves, and validates the inputs.
